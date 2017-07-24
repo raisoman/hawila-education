@@ -130,20 +130,25 @@ Here are some examples
 Jump challenges
 ---------------
 from the rail
+
 ![From the rail](images/rail-jump.jpg)
 
 from the  shrouds level 3, level 4
+
 ![From the shrouds](images/shrouds-jump.jpg)
 
 from the roof
+
 ![From the roof](images/roof-jump.jpg)
 
 Climbing challenges
 -------------------
 Chain challenge: climb up into the shark nest from the chain
+
 ![Chain challenge](images/chain-challenge.jpg)
 
 Mast: Climb to the highest accessible point on the mast
+
 ![Mast challenge](images/mast-challenge.jpg)
 
  
