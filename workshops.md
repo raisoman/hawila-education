@@ -25,7 +25,7 @@ Dish washing
 ------------
 Using salt water, rinse the dishes. Then wash and rinse them with a little fresh water.
 
-Pull water from the see using a bucket.
+Pull water from the sea using a bucket.
 
 ![Dish washing](images/dish-washing.jpg)
 
@@ -34,7 +34,9 @@ Learnings: share the chores, motor skills
 
 Steer the helm
 --------------
-Keep a given course. Unless the horizon is empty, use pointers on the horizon to navigate, it's more precise than the compass.
+Keep a given course.
+
+*Tip:* Unless the horizon is empty, use pointers on the horizon to navigate, it's more precise than the compass.
 
 ![Helm](images/helm.jpg)
 
@@ -70,7 +72,9 @@ Learnings: motor skills and physical training.
 
 Zodiac
 ------
-Steer the zodiac. Look far ahead to keep the course.
+Steer the zodiac.
+
+*Tip:* Look far ahead to keep the course.
 
 ![Zodiac](images/zodiac.jpg)
 
